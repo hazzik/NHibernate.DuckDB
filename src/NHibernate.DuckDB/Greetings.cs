@@ -1,4 +1,4 @@
-﻿namespace TemplateProject;
+﻿namespace NHibernate.DuckDB;
 
 public static class Greetings
 {

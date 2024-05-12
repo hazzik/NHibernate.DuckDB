@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\TemplateProject\TemplateProject.csproj" />
+      <ProjectReference Include="..\NHibernate.DuckDB\NHibernate.DuckDB.csproj" />
     </ItemGroup>
 
 </Project>

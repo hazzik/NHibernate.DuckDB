@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateProject", "TemplateProject\TemplateProject.csproj", "{6828FE03-6920-4033-AE05-4322C06A2D82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.DuckDB", "NHibernate.DuckDB\NHibernate.DuckDB.csproj", "{6828FE03-6920-4033-AE05-4322C06A2D82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateProject.Tests", "TemplateProject.Tests\TemplateProject.Tests.csproj", "{4A64F843-6234-4B63-BCDA-1213C032198B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.DuckDB.Tests", "NHibernate.DuckDB.Tests\NHibernate.DuckDB.Tests.csproj", "{4A64F843-6234-4B63-BCDA-1213C032198B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

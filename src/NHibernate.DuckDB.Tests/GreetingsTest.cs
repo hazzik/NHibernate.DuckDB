@@ -1,4 +1,4 @@
-﻿namespace TemplateProject.Tests;
+﻿namespace NHibernate.DuckDB.Tests;
 
 [TestFixture]
 public class GreetingsTest
